@@ -1,0 +1,44 @@
+.main {
+  font-family: sans-serif;
+
+  font-size: large;
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+  width: 70%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.cube {
+  height: 30px;
+  width: 30px;
+  border: solid black 1px;
+  margin: 1px;
+}
+
+.line {
+  display: flex;
+}
+
+.correct {
+  background-color: #92de66;
+}
+
+.close {
+  background-color: #ebbe4d;
+}
+
+.wrong {
+  background-color: #f00e3b;
+}
+
+.btn {
+  margin: 10px;
+}
+
+
+

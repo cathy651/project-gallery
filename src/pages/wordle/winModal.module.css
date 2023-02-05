@@ -1,0 +1,13 @@
+.container {
+  background-color: gold;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: solid 1px black;
+  position:fixed;
+  top:1%;
+  right:10%;
+  bottom:10%;
+  left:10%;
+}
